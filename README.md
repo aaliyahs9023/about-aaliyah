@@ -9,8 +9,8 @@
     * Sep    
   3. APUSH  
   4. AP Englsih  
-  5.Lunch  
-  6.Algebra 2  
-  7.Physics  
+  5. Lunch  
+  6. Algebra 2  
+  7. Physics  
   8. Yoga  
   
